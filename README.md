@@ -4,7 +4,7 @@ Language Locale for Indonesian in Laravel 10.
 
 ### How to use:
 
-Just paste "lang" directory into your root Laravel project and change the `app/config.php` file like this:
+Just copy the "lang" directory and paste into your root Laravel project and change the `app/config.php` file like this:
 
 ```php
 /*
